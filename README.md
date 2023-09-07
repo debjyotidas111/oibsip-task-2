@@ -3,9 +3,11 @@ Portfolio Website Made Using the help of HTML, CSS, JS.
 
 ![Screenshot (9718)](https://github.com/debjyotidas111/oibsip-task-2/assets/86339364/c849c93d-039a-4ce3-bf5e-07f832503946)
 
-![Screenshot (9719)](https://github.com/debjyotidas111/oibsip-task-2/assets/86339364/fc52fbce-43ea-45e5-86a7-8dee5bae666d)
+![Screenshot (9726)](https://github.com/debjyotidas111/oibsip-task-2/assets/86339364/622ee8b6-4cc4-4b8c-b169-2cf6457d2187)
 
-![Screenshot (9720)](https://github.com/debjyotidas111/oibsip-task-2/assets/86339364/b8375fca-5b77-4aa1-ab86-a9ad98debe28)
+
+![Screenshot (9727)](https://github.com/debjyotidas111/oibsip-task-2/assets/86339364/1b0d8746-e11c-4f21-88c9-f6dfbe73afba)
+
 
 ![Screenshot (9721)](https://github.com/debjyotidas111/oibsip-task-2/assets/86339364/5f0c98fa-5ddf-45a0-8fad-96cea6729b7b)
 
